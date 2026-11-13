@@ -11,9 +11,9 @@
 
 ## 👋 About Me
 
-- 🔍 원인을 끝까지 확인한 뒤 결론을 내리는 SW Developer / AI Engineer
+- 🔍 사용자 화면부터 서버까지 직접 확인하는 Full-Stack Developer / AI Engineer
 - 🪜 문제가 생기면 서비스 흐름을 단계별로 나눠 하나씩, 에러 코드만 보지 않고 로그와 시스템 상태까지.
-- 📊 결과 수치는 왜 그렇게 나왔는지, 어떤 의미인지까지 정리합니다.
+- 📊 기능이 돌아가는 것에서 끝내지 않고, 사용자 흐름을 생각하며 검토하고 개선합니다.
 - 📚 더 나은 결과와 정확한 목표 달성을 위해 새로운 기술을 찾아보는 걸 즐깁니다.
 
 > `#AlwaysLearning` `#BuildBetter` `#TraceTheRoot`
@@ -83,7 +83,7 @@
 
 ## 💼 Education
 
-- **심화_생성형 AI 활용 인재양성과정** · 하이미디어아카데미 · 2026.08 ~ 2026.10 *(수강 중)*
+- **심화_생성형 AI 활용 인재양성과정** · 하이미디어아카데미 · 2026.08 ~ 2026.10
 - **[IBM x RedHat] AI Transformation – AX Academy** · 대한상공회의소 · 2026.02 ~ 2026.08
 - **멋쟁이사자처럼 대학 12기** · 2024.01 ~ 2024.12
 
@@ -96,6 +96,7 @@
 | **PetFit** — 반려동물 생활환경 위험 진단 AI | 2026.08 ~ 진행 중 | AI · Backend | [BE](https://github.com/vinus-final-project/PetFit_Backend) · [FE](https://github.com/vinus-final-project/PetFit_frontend) |
 | **VINUS** — 시각장애인·저시력자를 위한 음성 기반 주문 키오스크 | 2026.06 ~ 2026.07 | AI · Full-stack | [Repo](https://github.com/vinus-final-project) |
 | **Nudy** — 내 얼굴에 맞춘 Makeup 가이드 | 2026.09 ~ 2026.10 | AI · Backend | [Repo](https://github.com/1DAN-2ZO/support-yr-makeup) |
+| **AI영상홍보** — 1분만에 만드는 영상 홍보 | 2026.10 ~ 진행 중 | 개인 개발 (AI · Full-Stack) | [Repo](https://github.com/firefox1234123/ai-store-promo) |
 | **ZipGa** — 실시간 멀티플레이어 미니게임 | 2026.08 · 1주 | Frontend Lead | [FE](https://github.com/1DAN-2ZO/ZipGa_Frontend) |
 | **ReRe** — 심리테스트 기반 중고거래 플랫폼 | 2024.07 ~ 2024.08 | Backend | [Repo](https://github.com/LikeLion-12th-SKHU/rere) |
 | **Record20xx** — 2D 방탈출 게임 | 2024.09 ~ 2024.11 | 개인 개발 (Unity · C#) | [Repo](https://github.com/firefox1234123/Record20xx) |
