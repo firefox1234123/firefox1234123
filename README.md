@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=2F4F3E&height=200&section=header&text=Dayeon%20Jung&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=AI%20Developer&descSize=20&descAlignY=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=2F4F3E&height=200&section=header&text=Dayeon%20Jung&fontSize=60&fontColor=ffffff&animation=fadeIn&des)
 
 [![Gmail](https://img.shields.io/badge/dayun01004@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dayun01004@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/firefox1234123)
